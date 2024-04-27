@@ -9,7 +9,7 @@ title: About
 
 <div>
     <p>
-      {% include group-intro.html %}
+      {% include cdt-intro.html %}
     </p>
 
     <p>The current group members are</p>
